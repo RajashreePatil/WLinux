@@ -1,14 +1,14 @@
 {
  	"gammaAccess": {
  	"url": "http://192.168.2.67:3000",
- 	"userName": "admin@mygamma.io",
- 	"password": "admin"
+ 	"userName": "chandrashekhar.bhosale@acellere.com",
+ 	"password": "admin1234"
  	},
  	"repositories": [
  	{
  	"dataDir": "$GAMMA_DATA",
  	"repository": {
- 	"uid": "36057d07a8d42461f87333c970cc3853",
+ 	"uid": "df4f463e9f53e9679df3ac939143803f",
  	"projectName": "team",
  	"languages": [
  	"CPP"
